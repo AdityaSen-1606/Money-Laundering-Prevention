@@ -1,0 +1,19 @@
+scikit-learn
+xgboost
+imblearn
+catboost
+pandas
+numpy
+seaborn
+scipy
+matplotlib
+pymongo
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+certifi
+PyYAML
+dill
+jinja2
+-e .
